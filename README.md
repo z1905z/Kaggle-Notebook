@@ -10,7 +10,11 @@ USA State Distributing the Most Vaccines
 
 **Load Dataset**
 **Preparing the Dataset**
+
 (A) List of Top 10 States that Distributed the most Vaccines in Total Last Week
-    Result (A)
+
+        Result (A)
+
 (B) List of the Top 10 States that Distributed the most Vaccines Per Capita
-    Result (B)
+
+        Result (B)
