@@ -1,5 +1,5 @@
-# Kaggle-Notebook
-USA State Distributing the Most Vaccines
+# USA State Distributing the Most Vaccines
+
 https://www.kaggle.com/zeynel7/usa-state-distributing-the-most-vaccines?scriptVersionId=88484643
 
 **California** was the state that distributed the most vaccines in the past week.
